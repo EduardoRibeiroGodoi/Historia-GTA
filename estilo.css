@@ -28,5 +28,11 @@ width: 1;
 
 }
 
+.container--botao{
+background-color: var(--botao-destaque);
+  color: var(--cor-principal);
+padding: 1em;
+
+}
 
 
