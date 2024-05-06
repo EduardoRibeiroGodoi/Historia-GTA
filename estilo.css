@@ -50,7 +50,9 @@ border: 2px solid var(--cor-principal);
   margin: 0 6em;
 }
 
-
+.container--img{
+  width: 500px;
+}
 
 
 
