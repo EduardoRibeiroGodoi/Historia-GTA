@@ -35,12 +35,13 @@ align-items: center;
 
 .container--botao{
 background-color: var(--botao-destaque);
-  color: var(--cor-principal);
+color: var(--cor-principal);
 padding: 1em;
 border-radius: 100px;
 text-decoration: none;
 display: block;
-margin-bottom: 20px;
+margin-bottom: 20px 0;
+
 }
 .botao--secundario{
 background-color: transparent;
